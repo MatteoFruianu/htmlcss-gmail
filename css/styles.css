@@ -1,0 +1,56 @@
+body {
+  background-image: url(../img/background-image.jpg);
+  margin-top: 30px;
+
+}
+
+header img {
+  width: 150px;
+  height: 100px;
+}
+
+header{
+  border-top: 30px;
+  font-size: 20px;
+  color: white;
+  vertical-align: 50%;
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+
+}
+
+#unread-message {
+  color: white;
+}
+
+#unread-number {
+  background-color: orange;
+  border-radius: 50%;
+  padding: 3px;
+}
+
+.riga-casella-mail {
+  background-color: lightgrey;
+  border: 1px solid black;
+}
+
+.oggetto-mail {
+  font-weight: bold;
+}
+
+.testo-mail {
+  color: grey;
+}
+
+footer {
+  color: white;
+  text-align: center;
+
+}
+
+footer span {
+  font-size: 25px;
+}
